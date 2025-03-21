@@ -8,6 +8,7 @@
   font-size: 20px;
   font-weight: 500;
   top: 38%;
+  
 }
 
 .menu_resipe:hover, .menu_post:hover, .menu_news:hover, .menu_holidays:hover{
@@ -16,10 +17,15 @@
 
 .menu_resipe, .menu_news   {
   color: #e4b445;
+  text-decoration: none;
+  border-bottom:rgb(67, 63, 57) 2px solid ;
 }
 
  .menu_holidays, .menu_post {
   color: rgb(67, 63, 57);
+  text-decoration: none;
+  border-bottom:#e4b445 2px solid ;
+ 
 }
 
  
