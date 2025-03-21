@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Nothing+You+Could+Do&family=PT+Sans+Narrow:wght@400;700&family=Playwrite+DK+Uloopet:wght@100..400&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap");
+
+.name {
+  display: block;
+  height: auto;
+  position: absolute;
+  bottom: 65%;
+  left: 17.5%;
+  right: 0;
+  width: 10%;
+  height: 35%;
+  background-color: rgba(216, 175, 40, 0.658);
+  text-align: start;
+  font-size: 33px;
+  font-family: "Nothing You Could Do", serif;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 30px;
+ 
+ 
+}
+
+.name_text{
+  position: absolute;
+    top: 15%;
+     color: white;
+     text-decoration: none;
+}
+
+.name_text:hover{
+  color: rgb(67, 63, 57)
+}
+

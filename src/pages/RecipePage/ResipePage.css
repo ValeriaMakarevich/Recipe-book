@@ -1,0 +1,10 @@
+.resipe-page{
+    position: absolute;
+   
+    background-color: black;
+}
+
+resipe-page_img{
+    width: 300px;
+    height: 250px;
+}

@@ -1,0 +1,38 @@
+.resipe-search{
+position: absolute;
+margin-top: 34.5%;
+left: 53%;
+}
+
+.resipe-search_input{
+    position: relative;
+    background-color:rgba(255, 255, 255, 0.87) ;
+    border: 1px solid #afa99c;
+    width: 350px;
+    height: 20px;
+    margin-left: 20px;
+}
+
+.resipe-search_button{
+background: none;
+border: none;
+cursor: pointer;
+}
+
+.resipe-search_img{
+position: absolute;
+    width: 20px;
+    height: 20px;
+    right: 20px;
+    bottom: 2px;
+}
+
+.result{
+    position: absolute;
+color: #726e66;
+font-size: 30px;
+margin-top: 44%;
+padding-bottom: 200px;
+right: 38%;
+
+}

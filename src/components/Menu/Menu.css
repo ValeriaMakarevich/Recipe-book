@@ -1,0 +1,25 @@
+.menu {
+  position: absolute;
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  right: 240px;
+  gap: 145px;
+  font-size: 20px;
+  font-weight: 500;
+  top: 38%;
+}
+
+.menu_resipe:hover, .menu_post:hover, .menu_news:hover, .menu_holidays:hover{
+    color: white;
+}
+
+.menu_resipe, .menu_news   {
+  color: #e4b445;
+}
+
+ .menu_holidays, .menu_post {
+  color: rgb(67, 63, 57);
+}
+
+ 

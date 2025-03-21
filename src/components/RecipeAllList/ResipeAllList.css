@@ -1,0 +1,25 @@
+.resipe-all{
+    position: absolute;
+    display: grid;
+    grid-template-columns: repeat(2, 40%);
+    grid-template-rows: repeat(6, 300px);
+    grid-row-gap: 3%;
+    grid-column-gap: 18%;
+    right: 22%; 
+    margin-top: 40%;
+}
+
+.resipe-all_title{
+    color: #e4b445;
+position: absolute;
+    font-size: 30px;
+    top: 120%;
+    right: 67%;
+}
+
+
+.resipe-all_img{
+width: 380px;
+height: 300px;
+
+}

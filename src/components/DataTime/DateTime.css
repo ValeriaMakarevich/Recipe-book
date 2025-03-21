@@ -1,0 +1,16 @@
+.watch{
+    position: absolute;
+    font-size: 17px;
+    color: rgb(255, 255, 255);
+    margin-left: 33%;
+    top: 1%;
+    
+    
+}
+.date{
+    position: absolute;
+    font-size: 17px;
+    color: rgb(255, 255, 255);
+    left: 2%;
+    top: 1%;
+}

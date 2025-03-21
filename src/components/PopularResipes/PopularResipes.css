@@ -1,0 +1,58 @@
+.popular-resipes {
+  position: absolute;
+  color: rgb(67, 63, 57);
+  text-align: start;
+  font-weight: 600;
+  width: 70%;
+  height: 44%;
+ right: 12%;
+ top: 70%;
+padding-right: 0%;
+
+}
+
+.popular-resipes::after{
+  content:        '';
+
+  position:       absolute;
+  bottom:         0px;
+  left:           0px;
+  
+  width:          calc(100% - 70px);
+  height:         5px;
+  
+  border-bottom: 2px solid #afa99c;
+}
+
+
+
+h2 {
+  position: absolute;
+ top: 300px;
+  color: rgb(67, 63, 57);
+  right: 55%;
+}
+
+
+.slick-next {
+  position: absolute;
+  background-color: #e4b445;
+  width: 50px;
+  height: 30px;
+  margin-top: 13%;
+  right: 47%;
+}
+
+.slick-prev{
+ position: absolute;
+  background-color: #e4b445;
+  width: 50px;
+  height: 30px;
+  margin-top: 13%;
+  left: 40%;
+}
+
+.popular-resipes_img {
+  width: 150px;
+  height: 100px;
+}
